@@ -1,4 +1,4 @@
 ## Member List
 > Add your name and class below.
 
-* < Your Name > < Class >
+* < Mohd Rahim Ali > < MCA ( 1st Year ) >
