@@ -2,5 +2,6 @@
 
 > Add your name and class below.
 
-- Your Name Class
-- Ahwar Khan - BCA
+- Your Name - Class
+- Ahwar Khan - BCA(3rd Year)
+- Mohd Rahim Ali - MCA ( 1st Year )
