@@ -13,4 +13,4 @@
 * Push your changes : ```$ git push origin branch-name```
 * Compare your changes and submit a Pull Request.
 
-If you are facing any problem or have any doubts open Issues or drop your query on Slack channel.
+Facing any problem or have any doubt ? Open a issue or drop your query on Slack channel.
