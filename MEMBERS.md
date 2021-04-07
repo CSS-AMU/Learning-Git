@@ -12,3 +12,4 @@
 - Uroos Saleem - MCA (I Year)
 - Sonal Varshney - BCA (2nd Year)
 - Swapnil Shinde - B.Tech (3rd Year)
+- Ayesha Abdullah - BCA (2nd year)
