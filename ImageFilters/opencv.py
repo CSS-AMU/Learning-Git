@@ -3,8 +3,8 @@ import numpy as np
 import time
 def blur():
     #reading from disk
-    img = cv2.imread("C:\python\python programs\IMG-20200924-WA0007.jpg")
-    gray_img = cv2.imread("C:\python\python programs\IMG-20200924-WA0007.jpg",0)
+    img = cv2.imread("D:\ADC\Learning-Git\IMG-20200924-WA0007.jpg")
+    gray_img = cv2.imread("D:\ADC\Learning-Git\IMG-20200924-WA0007.jpg",0)
 
     cv2.imshow("Image",img)
     cv2.imshow("Gray Image",gray_img)
@@ -17,7 +17,7 @@ def blur():
 
 # applying threshold to gray image
 def grey_thres():
-    photo= cv2.imread(r"C:\Users\sonal\OneDrive\Documents\py programs\programs\images.jpeg")
+    photo= cv2.imread(r"D:\ADC\Learning-Git\images.jpeg")
     # resizing image
     photo=cv2.resize(photo,(320,240))
 
@@ -50,7 +50,7 @@ def grey_thres():
 
 def canny():
 
-    img = cv2.imread(r"D:\Sonal\New folder\Camera\IMG_20200220_131141.jpg")
+    img = cv2.imread(r"D:\ADC\Learning-Git\IMG_20200220_131141.jpg")
     img =cv2.resize(img,(520,620))
     # applying canny edge detection algo
 
