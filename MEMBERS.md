@@ -1,4 +1,4 @@
 ## Member List
 > Add your name and class below.
 
-* < Your Name > < Class >
+* < Sonal Varshney > < B.Sc. Computer Applications 4th sem>
