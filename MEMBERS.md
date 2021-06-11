@@ -17,3 +17,4 @@
 - Zamam Farhat - BCA(3rd Year)
 - Shahzad Shahid - (2nd year)
 - Saad Shamim -(3rd Year)
+- Haris Moin - (1st Year)
