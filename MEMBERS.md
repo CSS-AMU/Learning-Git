@@ -14,4 +14,5 @@
 - Swapnil Shinde - B.Tech (3rd Year)
 - Ayesha Abdullah - BCA (2nd year)
 - Faraz Khan BCA (3rd Year)
+- Zamam Farhat - BCA(3rd Year)
 - Shahzad Shahid - (2nd year)
