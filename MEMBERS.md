@@ -16,3 +16,4 @@
 - Faraz Khan BCA (3rd Year)
 - Zamam Farhat - BCA(3rd Year)
 - Shahzad Shahid - (2nd year)
+- Saad Shamim -(3rd Year)
