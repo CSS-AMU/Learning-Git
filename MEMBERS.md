@@ -18,3 +18,4 @@
 - Shahzad Shahid - (2nd year)
 - Saad Shamim -(3rd Year)
 - Haris Moin - (1st Year)
+- Nishant Agarwal - MCA(1st Year)
