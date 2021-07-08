@@ -5,7 +5,7 @@
 *  Your Name - Class
 
 ==========================
-
+- Zikra Waseem - BCA(3rd Year)
 - Ahwar Khan - BCA(3rd Year)
 - Mohd Rahim Ali - MCA ( 1st Year )
 - Mohd Dayyan Ali - BCA ( Ist Year)
@@ -18,4 +18,5 @@
 - Shahzad Shahid - (2nd year)
 - Saad Shamim -(3rd Year)
 - Haris Moin - (1st Year)
-- Rumi Sadaf - BCA(2nd year)
+- Nishant Agarwal - MCA(1st Year)
+- Kajol Gupta - MCA (1st year)
