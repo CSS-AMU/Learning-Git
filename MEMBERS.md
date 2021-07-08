@@ -20,3 +20,4 @@
 - Haris Moin - (1st Year)
 - Nishant Agarwal - MCA(1st Year)
 - Kajol Gupta - MCA (1st year)
+- Rumi Sadaf - BCA(2nd year)
