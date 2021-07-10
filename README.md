@@ -4,7 +4,8 @@
 **Working on your first Pull Request?** You can learn from [this video](https://www.youtube.com/watch?v=c6b6B9oN4Vg) or [this series](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 ## Steps to submit a Pull request.
 
-* Fork and Clone this repository : ```$ git clone https://github.com/ADC-Club-AMU/Learning-Git.git```
+* Fork the repository
+* Clone your own forked repo : ```$ git clone https://github.com/<user_name>/Learning-Git.git```
 * ```$ cd Learning-Git```
 * Create your new branch : ```$ git checkout -b branch-name```
 * Make changes in the files
