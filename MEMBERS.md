@@ -21,3 +21,4 @@
 - Nishant Agarwal - MCA(1st Year)
 - Kajol Gupta - MCA (1st year)
 - Rumi Sadaf - BCA(2nd year)
+- Nabeela Masroor - BCA (1st Year)
