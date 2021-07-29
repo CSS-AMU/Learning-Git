@@ -2,9 +2,10 @@
 
 > Add your name and class below.
 
-*  Your Name - Class
+- Your Name - Class
 
 ==========================
+
 - Zikra Waseem - BCA(3rd Year)
 - Ahwar Khan - BCA(3rd Year)
 - Mohd Rahim Ali - MCA ( 1st Year )
@@ -23,3 +24,4 @@
 - Rumi Sadaf - BCA(2nd year)
 - Nabeela Masroor - BCA (1st Year)
 - ZAKIUDDIN - BCA(3rd Year)
+- Gaurav Varshney -MCA(1st year)
